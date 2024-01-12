@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitinNithesh
 - 👀 I’m interested in programming,gaming,on interesting things 🤣
-- 🌱 I’m currently learning some programming language:c#
+- 🌱 I’m currently learning some programming language
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me i am an indian and live in india
 
